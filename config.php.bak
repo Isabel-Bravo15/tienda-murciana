@@ -1,6 +1,0 @@
-<?php
-// config.php.bak - copia de seguridad (pista)
-// No hay credenciales porque usamos SQLite.
-// Pista: busca archivos .bak y prueba inyección en search.php?q=
-/* db: sqlite, file: ctf.db */
-?>
