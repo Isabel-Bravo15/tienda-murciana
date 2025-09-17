@@ -1,0 +1,3 @@
+Widget A - Small widget
+Widget B - Medium widget
+Flag Item - CTF{fu3n73_d3_l4_band3r4}  <!-- Aquí va la FLAG real -->
